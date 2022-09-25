@@ -1,10 +1,10 @@
 <p align="center"><img src="./app/assets/images/ParadisiaLogo.png" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">Helios Launcher</h1>
+<h1 align="center">Paradisia Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/ParadisiaLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/ParadisiaLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/ParadisiaLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/ParadisiaLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
+[<p align="center"><img src="https://img.shields.io/github/workflow/status/dscalzi/ParadisiaLauncher/Build.svg?style=for-the-badge" alt="gh actions">](https://github.com/DarkShoro/ParadisiaLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/ParadisiaLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/DarkShoro/ParadisiaLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
@@ -39,25 +39,25 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/ParadisiaLauncher/releases)
+You can download from [GitHub Releases](https://github.com/DarkShoro/ParadisiaLauncher/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/ParadisiaLauncher.svg?style=flat-square)](https://github.com/dscalzi/ParadisiaLauncher/releases/latest)
+[![](https://img.shields.io/github/release/dscalzi/ParadisiaLauncher.svg?style=flat-square)](https://github.com/DarkShoro/ParadisiaLauncher/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/ParadisiaLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/ParadisiaLauncher/releases)
+[![](https://img.shields.io/github/release/dscalzi/ParadisiaLauncher/all.svg?style=flat-square)](https://github.com/DarkShoro/ParadisiaLauncher/releases)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/ParadisiaLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/DarkShoro/ParadisiaLauncher/releases) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
-| Windows x64 | `Helios-Launcher-setup-VERSION.exe` |
-| macOS x64 | `Helios-Launcher-setup-VERSION-x64.dmg` |
-| macOS arm64 | `Helios-Launcher-setup-VERSION-arm64.dmg` |
-| Linux x64 | `Helios-Launcher-setup-VERSION.AppImage` |
+| Windows x64 | `Paradisia.Launcher-setup-VERSION.exe` |
+| macOS x64 | `Paradisia.Launcher-setup-VERSION-x64.dmg` |
+| macOS arm64 | `Paradisia.Launcher-setup-VERSION-arm64.dmg` |
+| Linux x64 | `Paradisia.Launcher-setup-VERSION.AppImage` |
 
 ## Console
 
@@ -91,7 +91,7 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/ParadisiaLauncher.git
+> git clone https://github.com/DarkShoro/ParadisiaLauncher.git
 > cd ParadisiaLauncher
 > npm install
 ```
@@ -181,7 +181,7 @@ Note that you **cannot** open the DevTools window while using this debug configu
 
 Please give credit to the original author and provide a link to the original source. This is free software, please do at least this much.
 
-For instructions on setting up Microsoft Authentication, see https://github.com/dscalzi/ParadisiaLauncher/blob/master/docs/MicrosoftAuth.md.
+For instructions on setting up Microsoft Authentication, see https://github.com/DarkShoro/ParadisiaLauncher/blob/master/docs/MicrosoftAuth.md.
 
 ---
 
@@ -206,6 +206,6 @@ The best way to contact the developers is on Discord.
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
 [chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
 [discord]: https://discord.gg/zNWUXdt 'Discord'
-[wiki]: https://github.com/dscalzi/ParadisiaLauncher/wiki 'wiki'
+[wiki]: https://github.com/DarkShoro/ParadisiaLauncher/wiki 'wiki'
 [nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
-[v2branch]: https://github.com/dscalzi/ParadisiaLauncher/tree/ts-refactor 'v2 branch'
+[v2branch]: https://github.com/DarkShoro/ParadisiaLauncher/tree/ts-refactor 'v2 branch'

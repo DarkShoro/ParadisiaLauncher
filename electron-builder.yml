@@ -1,5 +1,5 @@
 appId: 'paradisialauncher'
-productName: 'Paradisia Launcher'
+productName: 'Paradisia.Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Light Shoro'

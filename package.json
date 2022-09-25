@@ -1,13 +1,13 @@
 {
   "name": "paradisialauncher",
-  "version": "1.9.0",
+  "version": "0.0.9",
   "productName": "Paradisia Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/ParadisiaLauncher",
+  "homepage": "https://github.com/DarkShoro/ParadisiaLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/ParadisiaLauncher/issues"
+    "url": "https://github.com/DarkShoro/ParadisiaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/ParadisiaLauncher.git"
+    "url": "git+https://github.com/DarkShoro/ParadisiaLauncher.git"
   }
 }
